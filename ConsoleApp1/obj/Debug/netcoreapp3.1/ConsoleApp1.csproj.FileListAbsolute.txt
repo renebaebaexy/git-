@@ -1,0 +1,14 @@
+D:\作业\精英班\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\作业\精英班\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\作业\精英班\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\作业\精英班\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\作业\精英班\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\作业\精英班\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\作业\精英班\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
